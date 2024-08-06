@@ -6,7 +6,7 @@ an open-like conformation with domain swapping feature at transmembrane domain 1
 The model was subjected to energy minimization, followed by embedding into a pre-equilibrated 1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine (POPC) phospholipid membrane and solvation with a final ionic concentration of 15 mM KCl. Subsequently, the system underwent 25 ns of restrained equilibrium molecular dynamics simulation (MDs). Here we provide the frame structure at 24 ns post-equilibration of the MET complex.
 
 <p align="center">
-<img width="70%" src="Figures/Fig2.jpg">
+<img width="70%" src="Figures/Fig_MET_complex.jpg">
 </p>
 
-**Figure 1. TMC1 modeling and molecular dynamics simulations..** Compounds reported to display varied MET channel blocker. Front view a of our dimeric TMC1 model (purple) in complex with two protomers of TMIE (orange) and two protomers of CIB2 (red) proteins. Heads of phospholipids are showed as white beads. Arrows represent the entry site of small molecules via the pores in both TMC1 protomers calculated by HOLE (blue).
+**Figure 1. TMC1 modeling and molecular dynamics simulations.** Front view of a 25 ns frame of the dimeric, equilibrated TMC1 protein in complex with two protomers of TMIE (orange) and two protomers of CIB2 (red) proteins. The system is embedded in a POPC membrane, with the phospholipid heads illustrated as white beads. The TMC1 pores of chain A and B are represented by a blue funnel obtained by HOLE analysis.
