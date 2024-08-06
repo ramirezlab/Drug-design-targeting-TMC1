@@ -6,7 +6,5 @@ This repository contains our 3D-pharmacophores models and the dimeric open-like 
 TMC1 structure modeled using AlphaFold2.
 
 
-## Overview
-
 
 
