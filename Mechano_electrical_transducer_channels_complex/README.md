@@ -10,4 +10,4 @@ The model was subjected to energy minimization, followed by embedding into a pre
 
 **Figure 1.  Mechano Electrical Transducer (MET) Channel complex modeling.** Front view of a 25 ns frame of the dimeric, equilibrated TMC1 protein in complex with two protomers of TMIE (orange) and two protomers of CIB2 (red) proteins. The system is embedded in a POPC membrane, with the phospholipid heads illustrated as white beads. The TMC1 pores of chains A and B are represented by a blue funnel obtained by HOLE analysis.
 
-**Figure 2.  RMSDs de las 3 replicas - FALTAN.** Front .
+**Figure 2.  RMSDs de las 3 replicates - FALTAN.** Front .
